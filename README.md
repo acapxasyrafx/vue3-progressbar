@@ -30,7 +30,7 @@ Previously, we would like to first thank for the developers who have been willin
 
 ```bash
 # npm
-$ npm install @aacassandra/vue3-progressbar
+$ npm install @acapxasyrafx/vue3-progressbar
 
 ```
 
